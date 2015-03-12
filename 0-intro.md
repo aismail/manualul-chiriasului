@@ -22,7 +22,7 @@ Motivul este destul de simplu. Vrem să ajutăm pe alții să nu treacă prin ac
 
 # Cum contribui la acest manual?
 
-Momentan, singura metodă este prin GitHub[https://github.com/aismail/manualul-chiriasului]. Dacă va fi necesar, vom face mai ușoară contribuția în momentul în care va exista suficient interes.
+Momentan, singura metodă este prin [GitHub](https://github.com/aismail/manualul-chiriasului). Dacă va fi necesar, vom face mai ușoară contribuția în momentul în care va exista suficient interes.
 
 # Care sunt principalii actori?
 
